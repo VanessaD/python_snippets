@@ -1,0 +1,31 @@
+List of code snippets
+
+    Author:: Wei Di (vanessa.wdi@gmail.com)
+             http://imiloainf.wordpress.com/
+    Date::   6-15-2012
+    Copyright:: Wei Di, all right reserved. 
+
+
+* laplace.py
+Old Python Codes which using the module relaxm_wdi for solving a discrete Laplace equation .
+
+* path_align.py
+Path alignment.
+
+* pwlm.py
+Python module pwlm that implements piecewise linear interpolation for given data with a given triangulation.  
+
+*relaxm.py
+Python module relaxm_wdi that defines functions relax(u, nsweeps), relaxB(u,nsweeps), and relaxU(u, nsweeps) for solving a discrete Laplace equation Function relax does the complete calculation on a single processor. Function relaxB partitions the computation between two processors. 
+
+*SortAlg.py
+Basic Sorting algorithms in Python.
+
+*tree_serialize_deserialize.py
+Serialize and deserialize for binary tree. 
+
+*dp_painterspartition.py
+Decorator for dynamical Programming : the painters partition problem .
+
+*string_helpers
+Some problems related to string, such as *print_all_permutations, *anagram_checker, *minimum_editing 
